@@ -1,12 +1,21 @@
-# React University
+# CRM - demo - react - lightning
 
 React University is a sample project demonstrating how to build applications with React, Node.js, and the Lightning Design System. React University is written using ECMAScript 6 on the client and on the server (leveraging the new ES6 support of Node.js 4).
 
 Check out this video for a quick walkthrough:
-
 [![Video](http://img.youtube.com/vi/32Agr6QWmqU/0.jpg)](http://www.youtube.com/watch?v=32Agr6QWmqU)
 
 The back-end is built with **Node.js** using a **Postgres** database. 
+
+The challenge requires the following features be built:
+* Add a lead (name, phone number)
+* Log a call
+* Schedule an appointment
+* Convert lead to account
+
+With bonus points for:
+* Updating the phone number,
+* Using a date-picker for the appointment
 
 ## Automatic Deployment to Heroku
 
